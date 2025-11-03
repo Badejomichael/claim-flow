@@ -1,7 +1,7 @@
 # 💫 ClaimFlow
 
 ClaimFlow is a modern Web3 airdrop claim interface designed for token distribution campaigns.  
-It features a sleek, responsive UI, wallet integration, eligibility verification, and smooth claim flow animations — all built to deliver a **premium claiming experience**.
+It features a sleek, responsive UI, wallet integration, eligibility verification, and smooth claim flow animations. All built to deliver a **premium claiming experience**.
 
 ---
 
